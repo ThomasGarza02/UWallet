@@ -1,11 +1,22 @@
-.initial-page{
-    width: 300px;
-    border: 15px solid green;
-    padding: 50px;
-    margin: 20px;
-}
-.initial-page p{
+/* .initial-page {
+    margin-top: 100px; 
+    width: 500px;
+    border: 10px solid green;
+    padding: 150px; 
+
+    margin-left: auto; 
+    margin-right: auto; 
+}  
+
+.initial-page p {
     font: system-ui, 15px;
+} */
+
+.imageP img{
+    width: 150px;
+    height: 200px;
 }
 
-/*  */
+
+
+
