@@ -1,0 +1,10 @@
+.initial-page{
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+.initial-page p{
+    font: system-ui, 15px;
+}
+
