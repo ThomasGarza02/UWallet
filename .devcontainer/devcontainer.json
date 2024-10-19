@@ -1,0 +1,15 @@
+{
+    "extensions": 
+    [
+        "pranaygp.vscode-css-peek",
+        "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
+        "ecmel.vscode-html-css",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "VisualStudioExptTeam.intellicode-api-usage-examples",
+        "Zignd.html-css-class-completion",
+        "ritwickdey.LiveServer",
+        "vscode-icons-team.vscode-icons"
+    ]
+
+}
